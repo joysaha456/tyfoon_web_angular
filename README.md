@@ -1,6 +1,38 @@
 # Lezir - Tyfoon Web Page Template
 
+![](screenshots/screenshot1.png)
 
+<div align="center">
+  <h1>Tyfoon Web Page</h1>
+</div>
+
+
+
+<div align="center">
+  A headless, mobile responsive platform delivering ultra-fast, dynamic, personalized experiences. Beautiful web page fit anywhere, on any device.
+</div>
+
+<br>
+
+
+
+<br>
+
+## What makes Radikal special?
+
+Tyfoon is a Responsive Material Web Page Template and written with Angular  and Bootstrap.
+
+## Features
+
+- Responsive layout (desktops, tablets, mobile devices)
+- Built with Bootstrap v4.3.1
+- Login, register pages
+
+
+
+
+
+![](screenshots/screenshot2.png)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
